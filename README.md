@@ -1,5 +1,4 @@
 # cookiecutter-django
-===
 
 [Cookiecutter](https://github.com/audreyr/cookiecutter) Template for Django project.
 
