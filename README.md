@@ -17,7 +17,7 @@ Now run this:
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you based in this cookiecutter structure with its own future repository folder enclosing it.
 
-## Later ...
+## And ...
 
 You can do:
 
