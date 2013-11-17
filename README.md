@@ -5,6 +5,13 @@
 Using Two-Scoops of Django and _pydanny/cookiecutter-django_ as reference for project structure
 
 
+## Features
+
+* Django 1.5.5
+* Twitter Bootstrap 3.0.2
+* Font Awesome 4.0.3
+
+
 ## Usage
 
 You need to have cookiecutter. If you don't have it:
@@ -16,6 +23,7 @@ Now run this:
 	$ cookiecutter https://github.com/lborgav/cookiecutter-django.git
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you based in this cookiecutter structure with its own future repository folder enclosing it.
+
 
 ## And ...
 
@@ -30,11 +38,14 @@ You can do:
 
 #### CODE
 
-## Features
 
-* Django 1.5.5
-* Twitter Bootstrap 3.0.2
-* Font Awesome 4.0.3
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 
 ## License
