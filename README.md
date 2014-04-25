@@ -16,11 +16,15 @@ Using Two-Scoops of Django and _pydanny/cookiecutter-django_ as reference for pr
 
 You need to have cookiecutter. If you don't have it:
 
-	$ (sudo) pip install cookiecutter
+```bash
+$ (sudo) pip install cookiecutter
+```
 
 Now run this:
 
-	$ cookiecutter https://github.com/lborgav/cookiecutter-django.git
+```bash
+$ cookiecutter https://github.com/lborgav/cookiecutter-django.git
+```
 
 You'll be prompted for some questions, answer them, then it will create a Django project for you based in this cookiecutter structure with its own future repository folder enclosing it.
 
